@@ -1,0 +1,89 @@
+body {
+	min-height: 100vh;
+	/* mobile viewport bug fix */
+	min-height: -webkit-fill-available;
+}
+
+html {
+	height: -webkit-fill-available;
+}
+
+/*** The new CSS Reset - version 1.4.2 (last updated 30.11.2021) ***/
+
+/*
+    Remove all the styles of the "User-Agent-Stylesheet", except for the 'display' property
+    - The "symbol *" part is to solve Firefox SVG sprite bug
+ */
+*:where(:not(iframe, canvas, img, svg, video):not(svg *, symbol *)) {
+	/*all: unset;*/
+	display: revert;
+}
+
+/* Preferred box-sizing value */
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+/* Remove list styles (bullets/numbers) */
+ol,
+ul,
+menu {
+	list-style: none;
+}
+
+/* For images to not be able to exceed their container */
+img {
+	max-width: 100%;
+}
+
+strong {
+	color: white !important;
+}
+
+a {
+	color: white !important;
+	text-decoration: underline !important;
+}
+
+/* removes spacing between cells in tables */
+table {
+	border-collapse: collapse;
+}
+
+/* revert the 'white-space' property for textarea elements on Safari */
+textarea {
+	white-space: revert;
+}
+
+/* revert for bug in Chromium browsers
+   - fix for the content editable attribute will work properly. */
+:where([contenteditable]) {
+	-moz-user-modify: read-write;
+	-webkit-user-modify: read-write;
+	overflow-wrap: break-word;
+	-webkit-line-break: after-white-space;
+	line-break: after-white-space;
+}
+
+/* Fonts */
+
+html[lang="en"] *,
+html[lang="en-US"] * {
+	font-family: "Helvetica Neue", sans-serif;
+}
+
+html[lang="zh-CN"] * {
+	font-family: "Noto Sans", sans-serif;
+}
+
+.help.is-danger {
+	color: #e6001e !important;
+}
+
+#parent-container .control.is-danger,
+.button.is-danger,
+#parent-container .input.is-danger {
+	border-color: #e6001e !important;
+}

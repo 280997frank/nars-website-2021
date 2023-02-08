@@ -1,0 +1,309 @@
+{
+  "programmeName": "NONSTOP NARS",
+  "opening": {
+    "exploreButton": "EXPLORE",
+    "bubbleSpeeches": {
+      "welcome": "Welcome to NARS NONSTOP WORLD!",
+      "profile": "Tap on me to explore the NAVATAR profile."
+    }
+  },
+  "tasks": {
+    "task": "TASKS",
+    "welcomeOnboard": "WELCOME ONBOARD",
+    "monthlygift": {
+      "monthly": "MONTHLY GIFT"
+    },
+    "playgameonetime": {
+      "monthly": "TRY AND PLAY THE NONSTOP GAME",
+      "onboarding": "TRY AND PLAY THE NONSTOP GAME"
+    },
+    "register": {
+      "onboarding": "REGISTER ACCOUNT: WELCOME GIFT"
+    },
+    "reacttoapost": {
+      "monthly": "REACT TO A POST IN NONSTOP COMMUNITY",
+      "onboarding": "REACT TO A POST IN NONSTOP COMMUNITY"
+    },
+    "reacttopost": {
+      "monthly": "REACT TO A POST IN NONSTOP COMMUNITY",
+      "onboarding": "REACT TO A POST IN NONSTOP COMMUNITY"
+    },
+    "addproducttowishlist": {
+      "onboarding": "ADD AN ITEM TO WISHLIST"
+    },
+    "trylooks": {
+      "onboarding": "TRY-ON NAVATAR LOOKS"
+    },
+    "reacttoaproduct": {
+      "onboarding": "REACT TO A PRODUCT IN NONSTOP DISCOVERY"
+    },
+    "browse3products": {
+      "onboarding": "BROWSE 3 ITEMS IN NONSTOP DISCOVERY"
+    },
+    "scanqrcode": {
+      "qrcode": "OFFLINE CHECK-IN: SCAN QR CODE IN STORE"
+    },
+    "createyourownavatar": {
+      "onboarding": "CREATE YOUR OWN NAVATAR"
+    }
+  },
+  "ncoinHistory": {
+    "AddProductToWishlist": { "onboarding": "ADD AN ITEM TO WISHLIST" },
+    "BrowseThreeProducts": {
+      "onboarding": "BROWSE 3 ITEMS IN NONSTOP DISCOVERY"
+    },
+    "CreateYourOwnAvatar": { "onboarding": "CREATE YOUR OWN NAVATAR" },
+    "Game": {
+      "onboarding": "TRY AND PLAY THE NONSTOP GAME",
+      "monthly": "TRY AND PLAY THE NONSTOP GAME"
+    },
+    "MonthlyGift": { "monthly": "MONTHLY GIFT" },
+    "ReactToAPost": { "onboarding": "REACT TO A POST IN NONSTOP COMMUNITY" },
+    "ReactToAPostOneTime": {
+      "monthly": "REACT TO A POST IN NONSTOP COMMUNITY"
+    },
+    "ReactToAProduct": {
+      "onboarding": "REACT TO A PRODUCT IN NONSTOP DISCOVERY"
+    },
+    "Register": { "onboarding": "REGISTER ACCOUNT: WELCOME GIFT" },
+    "ScanQRCode": {
+      "qrcode": "OFFLINE CHECK-IN: SCAN QR CODE IN STORE"
+    },
+    "TryOnLook": { "onboarding": "TRY-ON NAVATAR LOOKS" }
+  },
+  "rooms": {
+    "nonstopPlay": "Nonstop Play",
+    "nonstopCommunity": "Nonstop Community",
+    "nonstopDiscovery": "Nonstop Discovery",
+    "nonstopHall": "Nonstop Hall"
+  },
+  "validation": {
+    "mandatory": "*MANDATORY",
+    "invalidName": "INVALID NAME",
+    "invalidMobileNumber": "联络号码无效",
+    "invalidNumber": "INVALID MOBILE NUMBER",
+    "onlyOneCharacter": "ONLY 1 CHARACTER"
+  },
+  "welcomeModal": {
+    "guest": "GUEST",
+    "title": "WELCOME TO NONSTOP NARS",
+    "body": "2022, BE UNSTOPPABLE.<br>BEGIN YOUR NONSTOP NARS JOURNEY AND UNLEASH THE HIDDEN POWER OF YOURSELF THROUGH MAKEUP.",
+    "wechatLogin": "WECHAT LOGIN",
+    "mobileLogin": "MOBILE LOGIN",
+    "newToNARS": "NEW TO NARS?",
+    "createAccount": "CREATE ACCOUNT",
+    "registrationBenefit": "立即注册<br>马上赚取 500 迎新 <span class=\"helvetica-neue\">NCOINS</span><br>兑换神秘礼遇！"
+  },
+  "loginForm": {
+    "title": "WELCOME BACK",
+    "body": "LOGIN TO YOUR ACCOUNT<br>WITH PHONE NUMBER",
+    "phoneNumber": "PHONE NUMBER",
+    "verificationCode": "VERIFICATION CODE",
+    "sendCode": "SEND CODE",
+    "login": "LOGIN"
+  },
+  "signupForm": {
+    "title": "LET US KNOW MORE ABOUT YOU",
+    "name": "NAME",
+    "firstName": "FIRST NAME",
+    "lastName": "LAST NAME",
+    "birthday": "BIRTHDAY",
+    "gender": "GENDER",
+    "female": "FEMALE",
+    "male": "MALE",
+    "phoneNumber": "PHONE NUMBER",
+    "verificationCode": "VERIFICATION CODE",
+    "sendCode": "SEND CODE",
+    "experienceWithNARS": "EXPERIENCE WITH NARS",
+    "using": "USING",
+    "tryItBefore": "TRY IT BEFORE",
+    "never": "NEVER",
+    "disclaimer": "我已详细阅读并同意NARS<a href=\"/{retailerName}/terms-and-conditions\">《使用条款》</a>和<a href=\"/{retailerName}/privacy-policy\">《隐私政策》</a>。",
+    "createAccount": "CREATE ACCOUNT",
+    "marketingConsent": "我同意接收来自NARS的邮件、短信/彩信，获取NARS最新产品及优惠活动信息。"
+  },
+  "tutorialModal": {
+    "skip": "SKIP",
+    "images": [
+      "/images/tutorial_2.png",
+      "/images/tutorial_4.png",
+      "/images/tutorial_5.png",
+      "/images/tutorial_7.png",
+      "/images/tutorial_3.png"
+    ],
+    "titles": [
+      "DRAG TO EXPLORE<br>THE NONSTOP WORLD",
+      "EXPLORE THE WORLD OF NONSTOP NARS",
+      "使用导航系统 穿楼<br>NARS 敢耀无止境星际探索之旅",
+      "CUSTOMIZE YOUR NAVATAR IN OUR NONSTOP NARS WORLD",
+      "EARN NCOINS IN THE<br>NONSTOP NARS WORLD<br>AND REDEEM REWARDS",
+      "READY FOR THE WORLD OF NONSTOP NARS?",
+      "EARN NCOINS BY COMPLETING TASKS"
+    ],
+    "bubbleSpeeches": [
+      "Hi, {name}!",
+      "Hi there! Hi {name}!",
+      "使用导航系统 穿楼<br>NARS 敢耀无止境星际探索之旅",
+      "Tap on me anytime to customize your NAVATAR.",
+      "Revisit the NARS City of Daring Mini Program Surprise not offline!",
+      "Tap on me any time to check your NCOINS balance.",
+      "Tap on me to see all tasks."
+    ],
+    "getStarted": "GET STARTED",
+    "collect": "COLLECT",
+    "start": "START",
+    "done": "DONE"
+  },
+  "burgerMenu": {
+    "changeLocation": "CHANGE LOCATION",
+    "mapImage": "/images/mapMenu.png"
+  },
+  "locationMenu": {
+    "upperDescription": "You can always change the retailer shop platform so as to enjoy different content.<br>Your data will be automatically saved and used across different platform.",
+    "youreNowIn": "You are now in",
+    "changeRetailer": "CHANGE RETAILER",
+    "findAStore": "FIND A STORE",
+    "lowerDescription": "Go to NARS mini program to check NARS shop locations",
+    "seeAllShops": "SEE ALL SHOPS"
+  },
+  "profile": {
+    "title": "HI {name}",
+    "inviteYourFriends": "INVITE YOUR FRIENDS",
+    "nwallet": "NWALLET",
+    "navatar": "NAVATAR",
+    "wishlist": "WISHLIST",
+    "settings": "SETTINGS",
+    "navatarProfile": "NAVATAR PROFILE"
+  },
+  "nwallet": {
+    "availableCoupons": "AVAILABLE COUPONS",
+    "history": "HISTORY",
+    "availability": "Gifts are based on stock availability",
+    "redeem": "REDEEM",
+    "use1": "USE",
+    "use2": "USE",
+    "used": "USED",
+    "confirmRedemption": "CONFIRM REDEMPTION",
+    "forTheRedemption": "{price} IS USED FOR THE REDEMPTION",
+    "couponRadeemDesc": "After confirmation, you will successfully exchange NCOINS for the gift certificate, <br/>remember to reload NARS in the store <br/> Small program, exchange stars!",
+    "expiryDate": "DATE OF EXPIRY",
+    "confirm": "CONFIRM",
+    "orderNumber": "ORDER NUMBER",
+    "verificationDescription": "Please contact our staff for a verification code.<br>Please note this prize is non-changeable for cash.<br>Refund or return is not allowed.",
+    "redemptionHistory": "Your redemption history",
+    "comingSoon": "COMING SOON...",
+    "noSeasonalOffer": "SORRY, WE DO NOT HAVE THE SEASONAL OFFER YET",
+    "back": "BACK",
+    "collectNcoins": "COLLECT NCOINS",
+    "useYourCamera": "USE YOUR CAMERA TO SCAN THE QR CODE IN OUR NARS STORE FOR THE SEASONAL OFFER",
+    "congrats": "CONGRATULATIONS!",
+    "youFound": "YOU FOUND A HIDDEN QR CODE",
+    "saveToNwallet": "COLLECT NCOINS AND SAVE TO YOUR NWALLET",
+    "collect": "COLLECT",
+    "howToEarn": "HOW TO EARN NCOINS?",
+    "howToEarnParagraphs": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Scelerisque nulla libero, est praesent pretium consectetur feugiat",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Scelerisque nulla libero, est praesent pretium consectetur feugiat. Sed leo, duis quam mauris. Viverra mauris tempor sed nulla semper tellus, augue pharetra. Vel sit maecenas facilisis molestie quam. Facilisis bibendum gravida nisl ut.",
+      "Mollis sit euismod mi semper id. Sem praesent pharetra, lacus massa in convallis. A gravida arcu, rhoncus enim, placerat vel enim. Volutpat arcu risus, vitae ante sit vitae ac."
+    ],
+    "loading": "Loading..."
+  },
+  "navatar": {
+    "save": "SAVE",
+    "lookbook": "LOOKBOOK",
+    "skinTone": "SKIN TONES",
+    "head": "HEAD",
+    "outfit": "OUTFIT",
+    "letsTry": "LET'S TRY THE LOOK TO EARN NCOINS",
+    "productsUsed": "PRODUCTS USED IN THIS LOOK",
+    "shareMyLook": "SHARE MY LOOK",
+    "edit": "EDIT",
+    "BasedOnFoundationSkus": "BASED ON FOUNDATION SKUS",
+    "BestSellers": "BEST SELLERS",
+    "Regular": "REGULARS"
+  },
+  "wishlist": {
+    "title": "WISHLIST",
+    "item": "{qty, plural, =0 {# ITEM} one {# ITEM} other {# ITEMS}}",
+    "shopNow": "SHOP NOW",
+    "downloadList": "DOWNLOAD LIST"
+  },
+  "settings": {
+    "title": "SETTINGS",
+    "language": "LANGUAGE",
+    "personalInformation": "PERSONAL INFORMATION",
+    "help": "HELP",
+    "tnc": "TERMS AND CONDITIONS",
+    "privacyPolicy": "PRIVACY POLICY",
+    "logout": "LOGOUT"
+  },
+  "community": {
+    "bubbleSpeeches": [
+      "We are all together in NARS community now!",
+      "Tap the post on the wall to see the content!",
+      "React to a post to earn NCOINS!"
+    ],
+    "byTheCommunity": "BY THE COMMUNITY",
+    "byNARS": "BY NARS",
+    "recommendedProduct": "RECOMMENDED PRODUCT",
+    "disclaimer": "DISCLAIMER/CREDIT TO CREATOR",
+    "from": "from"
+  },
+  "discovery": {
+    "bubbleSpeeches": [
+      "We are all together in NONSTOP DISCOVERY now!",
+      "Tap the product to discover the product details!",
+      "Browser 3 items and react to a product to earn NCOINS!",
+      "Add a favorite product in your wishlist too!"
+    ],
+    "addToWishlist": "ADD TO WISHLIST",
+    "daylook": "DAYLOOK",
+    "nightlook": "NIGHTLOOK",
+    "howToUse": "HOW TO USE"
+  },
+  "play": {
+    "title": "TUTORIAL",
+    "skip": "SKIP",
+    "bubbleSpeeches": [
+      "Let's play to earn more NCOINS!",
+      "You can earn 1000 NCOINS monthly in a game."
+    ],
+    "json": "/game/build.json"
+  },
+  "share": {
+    "title": "NONSTOP NARS",
+    "description": [
+      "ENTER THE NARS BRAVE ENDLESS JOURNEY AND DISCOVER",
+      "THE \"MUSCLE\" OF THE PLANET'S GRAVITY! CHECK REGULARLY",
+      "THE APPLET IS UPDATED, AND YOU CAN REAP THE MYSTERIOUS BENEFITS OF THE UNIVERSE!"
+    ],
+    "productDescription": [
+      "SEARCH FOR \"NARS DARE TO SHINE\" ON THE WECHAT SEARCH BAR",
+      "CITY”, CHECK THE APPLET UPDATES REGULARLY, RECEIVE",
+      "RECEIVE A COSMIC MYSTERY!"
+    ]
+  },
+  "backButton": {
+    "nonstopEntry": "NONSTOP<br>HALL",
+    "nonstopNull": "NONSTOP<br>HALL",
+    "nonstopHall": "NONSTOP<br>HALL",
+    "nonstopPlay": "NONSTOP<br>PLAY",
+    "nonstopCommunity": "BACK TO<br>COMMUNITY",
+    "nonstopDiscovery": "NONSTOP<br>DISCOVERY",
+    "profile": "NAVATAR<br>PROFILE",
+    "allCategory": "ALL<br>CATEGORY",
+    "backToGame": "BACK TO<br>GAME",
+    "backToProduct": "BACK TO <br> PRODUCT"
+  },
+  "productCategory": {
+    "bestsellers": "BESTSELLERS",
+    "face": "FACE",
+    "lips": "LIPS",
+    "eyes": "EYES",
+    "trex": "TREX"
+  },
+  "notification": {
+    "title": "Notifications",
+    "noNotifications": "No notifications"
+  }
+}

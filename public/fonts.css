@@ -1,0 +1,168 @@
+@font-face {
+  font-family: "Helvetica Neue";
+  font-style: normal;
+  font-weight: bold;
+  src: local("HelveticaNeueLT Std"), url("/fonts/helvetica-neue/HelveticaNeueLTStd-Bd.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Helvetica Neue";
+  font-style: italic;
+  font-weight: bold;
+  src: local("HelveticaNeueLT Std"), url("/fonts/helvetica-neue/HelveticaNeueLTStd-BdIt.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Helvetica Neue";
+  font-style: normal;
+  font-weight: 900;
+  src: local("HelveticaNeueLT Std Med"), url("/fonts/helvetica-neue/HelveticaNeueLTStd-Hv.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Helvetica Neue";
+  font-style: italic;
+  font-weight: 900;
+  src: local("HelveticaNeueLT Std Med"), url("/fonts/helvetica-neue/HelveticaNeueLTStd-HvIt.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Helvetica Neue";
+  font-style: italic;
+  font-weight: normal;
+  src: local("HelveticaNeueLT Std"), url("/fonts/helvetica-neue/HelveticaNeueLTStd-It.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Helvetica Neue";
+  font-style: normal;
+  font-weight: 300;
+  src: local("HelveticaNeueLT Std Lt"), url("/fonts/helvetica-neue/HelveticaNeueLTStd-Lt.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Helvetica Neue";
+  font-style: italic;
+  font-weight: 300;
+  src: local("HelveticaNeueLT Std Lt"), url("/fonts/helvetica-neue/HelveticaNeueLTStd-LtIt.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Helvetica Neue";
+  font-style: normal;
+  font-weight: 500;
+  src: local("HelveticaNeueLT Std Med"), url("/fonts/helvetica-neue/HelveticaNeueLTStd-Md.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Helvetica Neue";
+  font-style: italic;
+  font-weight: 500;
+  src: local("HelveticaNeueLT Std Med"), url("/fonts/helvetica-neue/HelveticaNeueLTStd-MdIt.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Helvetica Neue";
+  font-style: normal;
+  font-weight: normal;
+  src: local("HelveticaNeueLT Std"), url("/fonts/helvetica-neue/HelveticaNeueLTStd-Roman.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Helvetica Neue";
+  font-style: normal;
+  font-weight: 100;
+  src: local("HelveticaNeueLT Std Thin"), url("/fonts/helvetica-neue/HelveticaNeueLTStd-Th.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Helvetica Neue";
+  font-style: italic;
+  font-weight: 100;
+  src: local("HelveticaNeueLT Std Thin"), url("/fonts/helvetica-neue/HelveticaNeueLTStd-ThIt.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Helvetica Neue";
+  font-style: normal;
+  font-weight: 200;
+  src: local("HelveticaNeueLT Std UltLt"), url("/fonts/helvetica-neue/HelveticaNeueLTStd-UltLt.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Helvetica Neue";
+  font-style: italic;
+  font-weight: 200;
+  src: local("HelveticaNeueLT Std UltLt"),
+    url("/fonts/helvetica-neue/HelveticaNeueLTStd-UltLtIt.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 900;
+  src: local("Noto Sans CJK SC Black"), url("/fonts/noto-sans/NotoSansCJKsc-Black.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 700;
+  src: local("Noto Sans CJK SC Bold"), url("/fonts/noto-sans/NotoSansCJKsc-Bold.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 200;
+  src: local("Noto Sans CJK SC DemiLight"), url("/fonts/noto-sans/NotoSansCJKsc-DemiLight.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 300;
+  src: local("Noto Sans CJK SC Light"), url("/fonts/noto-sans/NotoSansCJKsc-Light.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 500;
+  src: local("Noto Sans CJK SC Medium"), url("/fonts/noto-sans/NotoSansCJKsc-Medium.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Noto Sans CJK SC Regular"), url("/fonts/noto-sans/NotoSansCJKsc-Regular.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 100;
+  src: local("Noto Sans CJK SC Thin"), url("/fonts/noto-sans/NotoSansCJKsc-Thin.otf") format("opentype");
+  font-display: swap;
+}

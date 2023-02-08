@@ -1,0 +1,24 @@
+@mixin typography {
+  color: white;
+  text-align: center;
+  font-weight: 250;
+}
+
+@mixin typography-2 {
+  font-weight: 300;
+  font-size: 0.8125rem;
+  line-height: 0.975rem;
+  color: white;
+}
+
+@mixin paragraph {
+  @include typography;
+  font-size: 0.9375rem;
+  line-height: 1.125rem;
+  letter-spacing: 1.5px;
+}
+
+@mixin form-typography {
+  @include typography-2;
+  text-align: start;
+}

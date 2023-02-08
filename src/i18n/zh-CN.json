@@ -1,0 +1,308 @@
+{
+  "programmeName": "NARS 敢耀无止境",
+  "opening": {
+    "exploreButton": "注册有礼，马上探索",
+    "bubbleSpeeches": {
+      "welcome": "欢迎抵达 <span class=\"helvetica-neue-thin\">NARS</span> 敢耀无止境宇宙，即刻开启出圈「肌」密探索之旅！马上建立星球，探索迎新宇宙神秘福利、与星球邻居分享最炫装扮必杀技、搜集最新宇宙星品情报、注册即享 500 NCOINS 迎新礼，参与越多即可领取越多NCOINS，兑换诱人礼券！",
+      "profile": "点击我开始制作你的专属星球主人形象"
+    }
+  },
+  "tasks": {
+    "task": "任务",
+    "welcomeOnboard": "欢迎进入 <span class=\"helvetica-neue\">NARS</span> 敢耀无止境星际探索之旅",
+    "monthlygift": {
+      "monthly": "每月赠礼"
+    },
+    "playgameonetime": {
+      "monthly": "于本月内在游戏专区完成游戏获取高达<span class=\"helvetica-neue\">1000 NCOINS</span> (次数不限，以游戏得分所定)",
+      "onboarding": "于游戏专区完成一局游戏"
+    },
+    "register": {
+      "onboarding": "创建你的星球名片"
+    },
+    "reacttoapost": {
+      "monthly": "与贴文互动",
+      "onboarding": "与帖文互动"
+    },
+    "reacttopost": {
+      "monthly": "与贴文互动",
+      "onboarding": "与帖文互动"
+    },
+    "addproducttowishlist": {
+      "onboarding": "添加星品至我的星愿清单"
+    },
+    "trylooks": {
+      "onboarding": "尝试不同星球主人造型"
+    },
+    "reacttoaproduct": {
+      "onboarding": "与星品互动一次"
+    },
+    "browse3products": {
+      "onboarding": "浏览三件星品（每件赚取 <span class=\"helvetica-neue\">50 NCOINS</span>)"
+    },
+    "scanqrcode": {
+      "qrcode": "于 <span class=\"helvetica-neue\">NARS</span> 实体店报到并扫描二维码"
+    },
+    "createyourownavatar": {
+      "onboarding": "定制你的专属星球主人形象"
+    }
+  },
+  "ncoinHistory": {
+    "AddProductToWishlist": { "onboarding": "添加星品至我的星愿清单" },
+    "BrowseThreeProducts": {
+      "onboarding": "浏览三件星品（每件赚取 <span class=\"helvetica-neue\">50 NCOINS</span>)"
+    },
+    "CreateYourOwnAvatar": { "onboarding": "定制你的专属星球主人形象" },
+    "Game": {
+      "onboarding": "于游戏专区完成一局游戏",
+      "monthly": "于本月内在游戏专区完成游戏获取高达<span class=\"helvetica-neue\">1000 NCOINS</span> (次数不限，以游戏得分所定)"
+    },
+    "MonthlyGift": { "monthly": "每月赠礼" },
+    "ReactToAPost": { "onboarding": "与帖文互动" },
+    "ReactToAPostOneTime": { "monthly": "与贴文互动" },
+    "ReactToAProduct": { "onboarding": "与星品互动一次" },
+    "Register": { "onboarding": "创建你的星球名片" },
+    "ScanQRCode": {
+      "qrcode": "于 <span class=\"helvetica-neue\">NARS</span> 实体店报到并扫描二维码"
+    },
+    "TryOnLook": { "onboarding": "尝试不同星球主人造型" }
+  },
+  "rooms": {
+    "nonstopPlay": "游戏专区",
+    "nonstopCommunity": "星际社区",
+    "nonstopDiscovery": "星品情报",
+    "nonstopHall": "直达首页"
+  },
+  "validation": {
+    "mandatory": "必须填写",
+    "invalidName": "名称无效",
+    "invalidMobileNumber": "联络号码无效",
+    "invalidNumber": "号码无效",
+    "onlyOneCharacter": "ONLY 1 CHARACTER"
+  },
+  "welcomeModal": {
+    "guest": "访客",
+    "title": "欢迎抵达 <span class=\"helvetica-neue-thin\">NARS</span><br> 敢耀无止境宇宙",
+    "body": "无需羡慕别人的光芒，野蛮生长，<br>创造自己的独特引力<br><span class=\"helvetica-neue-thin\">2022</span>开启 <span class=\"helvetica-neue-thin\">NARS</span> 敢耀无止境星际探索之旅，<br>做自在发光的行星！",
+    "wechatLogin": "微信登陆星球",
+    "mobileLogin": "手机登陆星球",
+    "newToNARS": "尚未注册？",
+    "createAccount": "创建你的星球",
+    "registrationBenefit": "立即注册<br>马上赚取 <span class=\"helvetica-neue-thin\">500</span> 迎新 <span class=\"helvetica-neue-thin\">NCOINS</span><br>兑换神秘礼遇！"
+  },
+  "loginForm": {
+    "title": "欢迎回到你的星球",
+    "body": "以手机号码登陆星球",
+    "phoneNumber": "手机号码",
+    "verificationCode": "验证码",
+    "sendCode": "传送验证码",
+    "login": "登陆"
+  },
+  "signupForm": {
+    "title": "创建你的星球名片",
+    "name": "姓名",
+    "firstName": "名字",
+    "lastName": "姓氏",
+    "birthday": "生日",
+    "gender": "性别",
+    "female": "女",
+    "male": "男",
+    "phoneNumber": "手机号码",
+    "verificationCode": "验证码",
+    "sendCode": "传送验证码",
+    "experienceWithNARS": "你的 <span class=\"helvetica-neue-thin\">NARS</span> 体验",
+    "using": "正在使用",
+    "tryItBefore": "曾经使用",
+    "never": "从未使用",
+    "disclaimer": "我已详细阅读并同意<span class=\"helvetica-neue-thin\">NARS</span><a href=\"/{retailerName}/terms-and-conditions\">《使用条款》</a>和<a href=\"/{retailerName}/privacy-policy\">《隐私政策》</a>。",
+    "createAccount": "建立星球",
+    "marketingConsent": "我同意接收来自<span class=\"helvetica-neue-thin\">NARS</span>的邮件、短信/彩信，获取<span class=\"helvetica-neue-thin\">NARS</span>最新产品及优惠活动信息。"
+  },
+  "tutorialModal": {
+    "skip": "跳过",
+    "images": [
+      "/images/tutorial-cn-2.png",
+      "/images/tutorial-cn-4.png",
+      "/images/tutorial-cn-5.png",
+      "/images/tutorial_7.png",
+      "/images/tutorial_3.png"
+    ],
+    "titles": [
+      "随意滑动屏幕<br>开启 <span class=\"helvetica-neue-thin\">NARS</span> 敢耀无止境 <br> 星际探索之旅",
+      "开启 <span class=\"helvetica-neue-thin\">NARS</span> 敢耀无止境<br>星际探索之旅",
+      "使用导航系统穿梭<br><span class=\"helvetica-neue-thin\">NARS</span> 敢耀无止境星际探索之旅",
+      "装扮你的星球主人形象并进入<br><span class=\"helvetica-neue-thin\">NARS</span> 敢耀无止境星际探索之旅",
+      "于 <span class=\"helvetica-neue-thin\">NARS</span> 敢耀无止境宇宙赚取 <br> <span class=\"helvetica-neue-thin\">NCOINS</span> 探索银河神秘礼遇",
+      "准备好进入 <span class=\"helvetica-neue-thin\">NARS</span> 敢耀无止境星际探索之旅了吗？",
+      "完成指定任务 <br>赚取 <span class=\"helvetica-neue-thin\">NCOINS</span>"
+    ],
+    "bubbleSpeeches": [
+      "{name} 你好！",
+      "{name} 你好！准备好进入<br><span class=\"helvetica-neue-thin\">NARS</span> 敢耀无止境星际探索<br>之旅了吗？",
+      "使用导航系统来进行<br><span class=\"helvetica-neue-thin\">NARS</span> 敢耀无止境星际探索之旅",
+      "点击我开始定制你的专属<br>星球主人形象",
+      "点击我查询 <span class=\"helvetica-neue-thin\">NCOINS</span> 户口<br>结余并兑换宇宙神秘礼遇",
+      "重访 <span class=\"helvetica-neue-thin\">NARS</span> 敢耀之城小程序<br>惊喜不下线！",
+      "点击我查看所有星际穿越任务"
+    ],
+    "getStarted": "马上启程",
+    "collect": "领取",
+    "start": "开启星际旅程",
+    "done": "完成"
+  },
+  "burgerMenu": {
+    "changeLocation": "转换免税店版本",
+    "mapImage": "/images/mapMenu-cn.png"
+  },
+  "locationMenu": {
+    "upperDescription": "欢迎随意转换至想要浏览的免税店版本<br>以获取相关资讯。<br>我们将会储存你的个人星球信息<br>并应用至免税店版本。",
+    "youreNowIn": "你目前正在浏览",
+    "changeRetailer": "转换免税店版本",
+    "findAStore": "寻找免税专柜",
+    "lowerDescription": "点击进入<span class=\"helvetica-neue-thin\">NARS</span>敢耀之旅小程序<br>寻找离你最近的 <span class=\"helvetica-neue-thin\">NARS</span> 免税专柜",
+    "seeAllShops": "查看全部免税专柜"
+  },
+  "profile": {
+    "title": "{name}你好！",
+    "inviteYourFriends": "邀请朋友创建星球，招募你的星球邻居",
+    "nwallet": "<span class=\"helvetica-neue-thin\">NWALLET</span>",
+    "navatar": "星球主人",
+    "wishlist": "我的清单",
+    "settings": "设定",
+    "navatarProfile": "返回星球主人首页"
+  },
+  "nwallet": {
+    "availableCoupons": "可兑换礼券",
+    "history": "兑换记录",
+    "availability": "礼遇兑换将因库存状况而定",
+    "redeem": "兑换",
+    "use1": "使用",
+    "use2": "兑换",
+    "used": "已使用",
+    "confirmRedemption": "确认兑换",
+    "forTheRedemption": "{price} 已用于兑换下列礼遇",
+    "couponRadeemDesc": "确认后，你会成功用 <span class=\"helvetica-neue-thin\">NCOINS</span> 换得礼券，<br/>记得在店铺内重新载入<span class=\"helvetica-neue-thin\">NARS</span>敢耀之城 <br/>小程序，兑换星品！",
+    "expiryDate": "使用期限",
+    "confirm": "确定",
+    "orderNumber": "礼券编号",
+    "verificationDescription": "请联络 <span class=\"helvetica-neue-thin\">NARS</span> 店员以获取认证码。<br>请注意此礼遇不可兑换现金。<br>确认兑换后恕不接受退款或退还。",
+    "redemptionHistory": "你的兑换记录",
+    "comingSoon": "敬请期待",
+    "noSeasonalOffer": "抱歉，我们暂时没有打卡活动。",
+    "back": "返回",
+    "collectNcoins": "收集 <span class=\"helvetica-neue-thin\">NCOINS</span>",
+    "useYourCamera": "开启手机镜头，扫描 <span class=\"helvetica-neue-thin\">NARS</span> 店铺的二维码并获取奖赏。",
+    "congrats": "恭喜",
+    "youFound": "你已成功寻获隐藏的二维码",
+    "saveToNwallet": "马上收集 <span class=\"helvetica-neue-thin\">NCOINS</span> 至 <span class=\"helvetica-neue-thin\">NWALLET</span>",
+    "collect": "收集",
+    "howToEarn": "如何赚取 <span class=\"helvetica-neue-thin\">NCOINS？</span>",
+    "howToEarnParagraphs": [
+      "用户一律获发 <span class=\"helvetica-neue-thin\">500 NCOINS</span>迎新福利，并能透过完成不同任务*获得相应数量的 <span class=\"helvetica-neue-thin\">NCOINS。</span> 详细机制如下所述：",
+      "1. 于星际社区及星品情报区进行互动 - 赚取 <span class=\"helvetica-neue-thin\">100 NCOINS。</span>",
+      "2. 于游戏专区参与游戏 - 每月赚取高达 <span class=\"helvetica-neue-thin\">1,000 NCOINS。</span>",
+      "3. 于星球主人首页打造不同造型 - 每个造型赚取 <span class=\"helvetica-neue-thin\">100 NCOINS。</span>",
+      "4. 亲临 <span class=\"helvetica-neue-thin\">NARS</span> 线下免税商店，扫描店内二维码即赚取 <span class=\"helvetica-neue-thin\">NCOINS</span>（数量将因应不同商店而异）。",
+      "*所有任务将于每月按时更新，请定期登入并查询最新资讯。"
+    ],
+    "loading": "加载中..."
+  },
+  "navatar": {
+    "save": "储存造型",
+    "lookbook": "妆容",
+    "skinTone": "肤色",
+    "head": "发型",
+    "outfit": "造型",
+    "letsTry": "马上尝试不同妆容以赚取 <span class=\"helvetica-neue-thin\">NCOINS</span>",
+    "productsUsed": "妆容星品列表",
+    "shareMyLook": "分享你的星球主人造型",
+    "edit": "妆容星品列表",
+    "BasedOnFoundationSkus": "色泽选项",
+    "BestSellers": "热销星品",
+    "Regular": "星品"
+  },
+  "wishlist": {
+    "title": "我的星愿清单",
+    "item": "{qty} 件星品",
+    "shopNow": "马上购买",
+    "downloadList": "下载清单"
+  },
+  "settings": {
+    "title": "设定",
+    "language": "语言",
+    "personalInformation": "个人信息",
+    "help": "常见问题",
+    "tnc": "使用条款",
+    "privacyPolicy": "隐私政策",
+    "logout": "退出星球"
+  },
+  "community": {
+    "bubbleSpeeches": [
+      "一同进入敢耀无止境探索之旅！你已抵达 <span class=\"helvetica-neue-thin\">NARS</span> 星际社区",
+      "点击墙面贴文查看气质出圈攻略",
+      "马上与贴文互动赚取 NCOINS！"
+    ],
+    "byTheCommunity": "<span class=\"helvetica-neue-light\">NARS</span>星球主人社区",
+    "byNARS": "<span class=\"helvetica-neue-light\">NARS</span>引力打造指南",
+    "recommendedProduct": "星品推荐",
+    "disclaimer": "贴文版权所有归于原创者",
+    "from": "来自"
+  },
+  "discovery": {
+    "bubbleSpeeches": [
+      "你已抵达 <span class=\"helvetica-neue-thin\">NARS</span> 星品情报专区，搜集宇宙情报，即刻打造星球引力",
+      "点击星品搜集更多情报。",
+      "浏览 3 款星品并展开互动赚取 NCOINS！",
+      "将心仪星品添加至我的星愿清单中。"
+    ],
+    "addToWishlist": "添加至我的星愿清单",
+    "daylook": "元气起航，日妆打造满分吸睛力",
+    "nightlook": "状态续航，晚妆依旧slay全场",
+    "howToUse": "敢耀妆造出圈指南"
+  },
+  "play": {
+    "title": "游戏教学",
+    "skip": "跳过",
+    "bubbleSpeeches": [
+      "马上进入游戏赚取更多 NCOINS！",
+      "你每月可在游戏中赚取 1000 NCOINS！"
+    ],
+    "json": "/game-cn/build.json"
+  },
+  "share": {
+    "title": "NARS 敢耀无止境宇宙",
+    "description": [
+      "进入 NARS 敢耀无止境之旅，探索",
+      "星球引力的「肌」密！ 定时查看",
+      "小程序更新，收获宇宙神秘礼遇 !"
+    ],
+    "productDescription": [
+      "于微信搜索栏上搜寻「NARS 敢耀",
+      "之城」，定时查看小程序更新，收",
+      "获宇宙神秘礼遇！"
+    ]
+  },
+  "backButton": {
+    "nonstopEntry": "直达首页",
+    "nonstopNull": "直达首页",
+    "nonstopHall": "直达首页",
+    "nonstopPlay": "游戏专区",
+    "nonstopCommunity": "星际社区",
+    "nonstopDiscovery": "星品情报",
+    "profile": "返回星球<br/>主人首页",
+    "allCategory": "所有产品",
+    "backToGame": "返回游戏专区",
+    "backToProduct": "返回星品情报"
+  },
+  "productCategory": {
+    "bestsellers": "明星推荐",
+    "face": "底妆",
+    "lips": "唇妆",
+    "eyes": "眼妆",
+    "trex": "免税专售"
+  },
+  "notification": {
+    "title": "通知",
+    "noNotifications": ""
+  }
+}

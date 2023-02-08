@@ -1,0 +1,42 @@
+{
+  "extends": "@tsconfig/svelte/tsconfig.json",
+  "compilerOptions": {
+    "target": "ES2015",
+    "module": "esnext",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "baseUrl": "./src",
+    "paths": {
+      "@/connections/*": ["connections/*"],
+      "@/middlewares": ["middlewares/index"],
+      "@/components/*": ["components/*"],
+      "@/functions/*": ["functions/*"],
+      "@/hooks/*": ["hooks/*"],
+      "@/hooks": ["hooks/index"],
+      "@/constants/*": ["constants/*"],
+      "@/states/*": ["states/*"],
+      "@/styles/*": ["styles/*"],
+      "@/public/*": ["public/*"],
+      "@/types/*": ["types/*"],
+      "@/utils/*": ["utils/*"],
+      "@/utils": ["utils/index"],
+      "@/context": ["context/index"],
+      "@/assets/*": ["assets/*"],
+      "@/contexts/*": ["contexts/*"],
+      "@/stores": ["stores/index"],
+      "@/stores/*": ["stores/*"],
+      "@/interfaces/*": ["interfaces/*"],
+      "@/api": ["api/index"],
+      "@/api/*": ["api/*"],
+      "@/i18n": ["i18n/index"]
+    }
+  },
+  "include": ["src/**/*", "public/build/*", "svelte.config.js"],
+  "exclude": [
+    "node_modules/*",
+    "__sapper__/*",
+    "functions/*",
+    "public/build/*",
+    ".eslintrc.js"
+  ]
+}

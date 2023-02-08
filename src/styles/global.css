@@ -1,0 +1,96 @@
+:root {
+  --app-height: 100%;
+  --app-width: 100%;
+}
+
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+  width: var(--app-width);
+  height: var(--app-height);
+  overflow: auto !important;
+  overscroll-behavior-y: none;
+  overscroll-behavior-x: none;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  src: url("/fonts/noto-sans/NotoSansCJKsc-Black.otf");
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  src: url("/fonts/noto-sans/NotoSansCJKsc-Bold.otf");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  src: url("/fonts/noto-sans/NotoSansCJKsc-Medium.otf");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  src: url("/fonts/noto-sans/NotoSansCJKsc-Regular.otf");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  src: url("/fonts/noto-sans/NotoSansCJKsc-DemiLight.otf");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  src: url("/fonts/noto-sans/NotoSansCJKsc-Light.otf");
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  src: url("/fonts/noto-sans/NotoSansCJKsc-Thin.otf");
+  font-weight: 100;
+}
+
+.helvetica-neue {
+  font-family: "Helvetica Neue", sans-serif !important;
+}
+
+.helvetica-neue-bolder {
+  font-family: "Helvetica Neue", sans-serif !important;
+  font-weight: bolder !important;
+}
+
+.helvetica-neue-thin {
+  font-family: "Helvetica Neue", sans-serif !important;
+  font-weight: 100 !important;
+}
+
+.helvetica-neue-extra-light {
+  font-family: "Helvetica Neue", sans-serif !important;
+  font-weight: 200 !important;
+}
+
+.helvetica-neue-light {
+  font-family: "Helvetica Neue", sans-serif !important;
+  font-weight: 300 !important;
+}
+
+/* The style used for the api response that was previously created from the Rich Text Editor */
+.ql-align-center {
+  text-align: center !important;
+}
+
+.ql-align-left {
+  text-align: left !important;
+}
+
+.ql-align-right {
+  text-align: right !important;
+}
+
+/* end of Rich Text Editor  */

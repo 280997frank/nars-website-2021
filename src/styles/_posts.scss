@@ -1,0 +1,41 @@
+@mixin descPost {
+  padding: 10px;
+  color: white !important;
+  font-size: 15px;
+  font-family: "Noto Sans", sans-serif !important;
+  :global(strong) {
+    color: white;
+    font-weight: bold;
+  }
+  :global(p) {
+    font-family: "Noto Sans", sans-serif !important;
+    font-weight: 200;
+    line-height: 1.7;
+  }
+  :global(em) {
+    font-style: italic;
+  }
+  :global(u) {
+    text-decoration: underline;
+  }
+  :global(sup) {
+    vertical-align: super;
+    font-size: smaller;
+  }
+  :global(sub) {
+    vertical-align: sub;
+    font-size: smaller;
+  }
+  :global(ol) {
+    list-style-type: decimal !important;
+    :global(li) {
+      margin-left: 40px;
+    }
+  }
+  :global(ul) {
+    list-style-type: circle !important;
+    :global(li) {
+      margin-left: 40px;
+    }
+  }
+}
